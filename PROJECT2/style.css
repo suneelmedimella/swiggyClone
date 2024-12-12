@@ -1,0 +1,314 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.pic1{
+    display: inline-block;
+    float: right;
+    height: 530px;;
+    width: 700px;
+
+}
+.one{
+    background-color: whitesmoke;
+    height: 500px;
+    width: 780px;
+padding-top: 30px;
+padding-left: 50px;
+
+}
+.b1:hover{
+    background-color: black;
+    border: none;
+    color: whitesmoke;
+    height: 30px;
+    width: 70px;
+}
+.b2:hover{
+    background-color: black;
+    border: none;
+    color: whitesmoke;
+}
+
+.b1{
+    margin-left: 500px;
+    border: none;
+    height: 30px;
+    width: 70px;
+    
+}
+.b2{
+    display: inline;
+    border: none;
+    margin-left: 10px;
+    height: 30px;
+    width: 70px;
+}
+.h{
+    margin-top: 70px;
+}
+.p1{
+    color: orangered;
+
+}
+input{
+    height: 36px;
+    width: 300px;
+    margin-top: 80px;
+}
+.b3{
+    height: 38px;
+    width: 85px;
+    color: white;
+    background-color: orangered;
+    border: none;
+}
+.b3:hover{
+    background: black;
+    color: white;
+}
+.p2{
+    text-align: center;
+    margin-top: 100px;
+}
+.p3{
+    text-align: center;
+    margin-right: 60px;
+}
+.two{
+    background-color: black;
+    color: white;
+    width: 1512px; 
+    height: 235px;
+    display: inline-block;
+   
+    }
+.p4{
+    
+    height: 100px;
+    width: 100px;
+    margin-top: 30px;
+    margin-left: 130px;
+    
+}
+.p5{
+    height: 100px;
+    width: 100px;
+    margin-left: 500px;
+}
+.p6{
+    height: 100px;
+    width: 100px;
+    margin-left: 400px;
+}
+.three{
+    display: inline-flex;
+}
+.h31{
+display: inline-block;
+   margin-left: 100px;
+}
+.h32{
+   
+    
+    margin-left: 450px;
+}
+
+.h33{
+    
+    margin-left: 338px;
+}
+.four{
+    display: flex;
+}
+
+.para1{
+    display: inline;
+    text-align: center;
+    margin-left: 40px;
+    color: silver;
+}
+.para2{
+    margin-left: 350px;
+    text-align: center;
+    color: silver;
+
+}
+.para3{
+    margin-left: 240px;
+    text-align: center;
+    color: silver;
+}
+.five{
+  display: inline-block;
+    border: solid;
+    margin: 30px;
+    text-align: center;
+    border-radius: 10px;
+    border-color: whitesmoke;
+    cursor: pointer;
+    
+
+}
+.p7{
+    height: 200px;
+    width: 300px;
+    border-radius: 5px;
+    
+}
+.five:hover{
+    color:orangered;
+    font-size: larger;
+}
+.menu{
+    text-align: center;
+    margin-top: 20px;
+}
+.six{
+    background-color: red;
+    height: 100px;
+    text-align: center;
+    color: white;
+}
+.h34{
+    padding-top: 40px;
+}
+.seven{
+    height:  700px;
+    background-color: black;
+    color: whitesmoke;
+   
+    
+}
+.d{
+    padding-top: 60px;
+    margin-left:40px ;
+    display: inline-flex;
+}
+
+   
+.para5{
+    margin-left: 40px;
+    color: silver;
+
+    
+}
+
+.eight{
+    display: inline-flex;
+   
+}
+.c1{
+    margin-left: 250px;
+}
+.c2{
+    margin-left: 150px;
+}
+.c3{
+    margin-left: 150px;
+}
+.c4{
+    margin-left: 150px;
+}
+.nine{
+     display: inline-block;
+     margin-left: 255px;
+     margin-top: 20px;
+     color: silver;
+     font-size: smaller;
+     
+     
+}
+.ten{
+    display: inline-block;
+    margin-left: 240px;
+    color: silver;
+    font-size: smaller;
+}
+
+.one1{
+    display: inline-block;
+    margin-left: 220px;
+    color: silver;
+    font-size: smaller;
+}
+.two2{
+    display: inline-block;
+    margin-left: 200px;
+    color: silver;
+    font-size: smaller;
+}
+.five5{
+    margin-top: 70px;
+    margin-left: 600px;
+    
+}
+.payment{
+  margin-left: 40px; 
+
+}
+.three3{
+     display: inline-block;
+     margin-left: 20px;
+     color: silver;
+     font-size: smaller;
+
+}
+.paytm{
+    height: 30px;
+    width: 40px;
+    margin-left: 30px;
+    border-radius: 7px;
+   margin-top: 20px;
+}
+.visa{
+    height: 30px;
+    width: 50px;
+    margin-left: 5px;
+   border-radius: 7px;
+}
+.master{
+    height:30px ;
+    width: 50px;
+    border-radius: 7px;
+}
+.rupay{
+    height: 30px;
+    width: 40px;
+    border-radius: 7px;
+}
+.six6{
+    display: inline-flex;
+    margin-top: 50px;
+}
+.add{
+margin-left: 250px;
+}
+.rest{
+    margin-left: 600px;
+}
+.seven7{
+       display:inline-flex;
+       
+}
+.add1{
+    text-align: center;
+    margin-left: 170px;
+    margin-top: 15px;
+    color: silver;
+}
+.rest1{
+    margin-left: 500px;
+    margin-top: 15px;
+    background-color: orange;
+    color:white ;
+    height: 40px;
+    width: 100px;
+    font-size: smaller;
+    border-radius: 3px;
+}
+.rest1:hover{
+    background-color: red;
+    color:white;
+
+}
